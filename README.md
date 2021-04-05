@@ -10,10 +10,10 @@ Various university projects and assignments.
 - Computational Logic
 
 ## Second semester
-- [Object-Oriented Programming](https://github.com/Calandrinon/OOP-Labs)
+- [Object-Oriented Programming](https://github.com/Calandrinon/Object-Oriented-Programming-Labs)
 - Dynamical Systems
-- Graph algorithms 
-- Operating Systems
+- [Graph algorithms](https://github.com/Calandrinon/Graph-Algorithms-Labs)
+- [Operating Systems](https://github.com/Calandrinon/Operating-Systems-Labs)
 - Geometry
 - Data Structures and Algorithms
 
