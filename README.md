@@ -29,7 +29,7 @@ Various university projects and assignments.
 - [Database Management Systems](https://github.com/Calandrinon/Database-Management-Systems-Course)
 - [Artificial Intelligence](https://github.com/Calandrinon/Artificial-Intelligence)
 - [Systems for Design and Implementation](https://github.com/Calandrinon/Systems-For-Design-And-Implementation-Labs)
-- Software Engineering
+- [Software Engineering](https://github.com/Calandrinon/Conference-Management-System)
 
 ## Fifth Semester
 *Coming soon*
