@@ -32,7 +32,12 @@ Various university projects and assignments.
 - [Software Engineering](https://github.com/Calandrinon/Conference-Management-System)
 
 ## Fifth Semester
-*Coming soon*
+- [Formal Languages and Compiler Design](https://github.com/Calandrinon/Formal-Languages-And-Compilers)
+- [Parallel and Distributed Programming](https://github.com/Calandrinon/Parallel-And-Distributed-Programming)
+- [Mobile applications](https://github.com/Calandrinon/Mobile-Applications)
+- [Computer Vision and Deep Learning](https://github.com/Calandrinon/Computer-Vision-And-Deep-Learning)
+- [Cloud Applications Architecture]()
+- [Team Project]()
 
 ## Sixth Semester
 *Coming soon*
