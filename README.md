@@ -36,8 +36,7 @@ Various university projects and assignments.
 - [Parallel and Distributed Programming](https://github.com/Calandrinon/Parallel-And-Distributed-Programming)
 - [Mobile applications](https://github.com/Calandrinon/Mobile-Applications)
 - [Computer Vision and Deep Learning](https://github.com/Calandrinon/Computer-Vision-And-Deep-Learning)
-- [Cloud Applications Architecture]()
-- [Team Project]()
+- [Cloud Applications Architecture](https://github.com/Calandrinon/Cloud-Applications-Architecture)
 
 ## Sixth Semester
 *Coming soon*
