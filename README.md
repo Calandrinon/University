@@ -39,4 +39,10 @@ Various university projects and assignments.
 - [Cloud Applications Architecture](https://github.com/Calandrinon/Cloud-Applications-Architecture)
 
 ## Sixth Semester
-*Coming soon*
+- [Numerical Calculus](https://github.com/Calandrinon/Numerical-Calculus)
+- [Preparation Of Bachelor Thesis](https://github.com/Calandrinon/Preparation-Of-Bachelor-Thesis)
+- [Software systems verification and validation](https://github.com/Calandrinon/Systems-Of-Software-Verification-And-Validation)
+- [IoT-And-Mobile (Android Things)](https://github.com/Calandrinon/IoT-Mobile-Course)
+- [Blockchain: Smart Contracts](https://github.com/Calandrinon/Blockchain-Smart-Contracts)
+- [History of computer science](https://github.com/Calandrinon/History-Of-Computer-Science)
+
